@@ -118,7 +118,6 @@ Aplikacja wykorzystuje **trzy źródła danych** z urządzenia mobilnego:
 ![Widok główny ze statystykami](screenshots/widok_glowny2.PNG)
 *Widok główny z przykładowymi statystykami (można testować nabijanie kroków przez przycisk)*
 
-> **Uwaga**: Zrzuty ekranu należy dodać do folderu `screenshots/` w katalogu głównym projektu.
 
 ## 🚀 Instrukcja uruchomienia
 
