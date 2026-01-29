@@ -99,23 +99,23 @@ Aplikacja wykorzystuje **trzy źródła danych** z urządzenia mobilnego:
 ## 📸 Zrzuty ekranu
 
 ### Ekran główny
-![Ekran główny](screenshots/ekran_glowny.png)
+![Ekran główny](screenshots/ekran_glowny.PNG)
 *Ekran główny z wyświetlaną liczbą kroków, lokalizacją GPS oraz przyciskami do robienia zdjęć i zapisywania sesji*
 
 ### Ekran szczegółów
-![Ekran szczegółów](screenshots/widok_sesji.png)
+![Ekran szczegółów](screenshots/widok_sesji.PNG)
 *Ekran szczegółów z listą sesji, statystykami i wykresem aktywności*
 
 ### Udostępnianie danych
-![Udostępnianie](screenshots/wysylanie_sesji.png)
+![Udostępnianie](screenshots/wysylanie_sesji.PNG)
 *Dialog udostępniania podsumowania aktywności przez e-mail lub inne aplikacje*
 
 ### Funkcja robienia zdjęcia na treningu
-![Udostępnianie](screenshots/zdjecie.png)
+![Robienie zdjęcia](screenshots/zdjecie.PNG)
 *Przykład robienia zdjęcia do treningu*
 
 ### Widok główny ze statystykami
-![Udostępnianie](screenshots/widok_glowny2.png)
+![Widok główny ze statystykami](screenshots/widok_glowny2.PNG)
 *Widok główny z przykładowymi statystykami (można testować nabijanie kroków przez przycisk)*
 
 > **Uwaga**: Zrzuty ekranu należy dodać do folderu `screenshots/` w katalogu głównym projektu.
