@@ -24,7 +24,7 @@ import java.io.File
 
 @Composable
 fun DetailsScreen(viewModel: HomeViewModel) {
-    
+
     val uiState by viewModel.uiState.collectAsState()
     val sessions = uiState.sessions
     val totalStepCount = uiState.totalSteps
